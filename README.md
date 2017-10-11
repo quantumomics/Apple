@@ -15,7 +15,7 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 - Suffix — ¶
 - Nameix — S<i>μ</i>149
 
-> Note: Faceix is a weight.
+> <b>Note:</b> Faceix is a weight. Prefix + Faceix + Suffix = Nameix.
 
 <i>by</i> — [Apple](https://www.apple.com/), Inc. &amp; [Sequømics](http://sequomics.com/), Inc.
 
