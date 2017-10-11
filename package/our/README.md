@@ -18,9 +18,9 @@
 |<i>ϕ<sub></sub></i>|<i>ϕ<sub>2</sub></i>|<i>ϕ<sub>2</sub></i>|--|
 
 
-<b>QFNS</b> is a package design of nameix <b>prosistor</b> — <b>S<i>μ</i></b> with weight 1.49KHz i.e., a QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) to be a wotld first invention of MPRT (<i>μ</i><sup>®</sup>) architectured semiconductor. A prosistor is an invention &amp; design of two companies Sequømics, Inc. and Apple, Inc. — a genius CEO Prabhat Kumar and his co-scientist at California, USA, respectively.
+<b>QFNS</b> is a package design of nameix <b>prosistor</b> — <b>S<i>μ</i></b> with the weight 1.49KHz i.e., a QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) to be a wotld first invention of MPRT (<i>μ</i><sup>®</sup>) architectured semiconductor. A prosistor is an invention &amp; design of two companies Sequømics, Inc. and Apple, Inc. — a genius CEO Prabhat Kumar and his co-scientist at California, USA, respectively.
 
-A surface mounted heat sink, is an area to transfer the heat under steady-state conditions to be a great prosistor. The <b><i>r</r></b> of SMHS can be calculated by the formula and imposed on the QFN to design the semiconductor package QFNS.
+A surface mounted heat sink, is an area to transfer the heat under steady-state conditions to be a great prosistor. The <b><i>r</i></b> of SMHS can be calculated by the formula and imposed on the QFN to design the semiconductor package QFNS. Thus, QFNS fabricated with the body size of 4.0mm<sup>2</sup>, have length of 4.0mm and width of 4.0 mm. The height of package is 2.0mm.
 
 
 
