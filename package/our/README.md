@@ -8,11 +8,11 @@
 
 |D|0.4|--|
 |:--:|:--:|:--:|
-|<i>β<sub></sub></i>|<i>β<sub>1</sub></i>|--|
-|<i>β<sub></sub></i>|<i>β<sub>2</sub></i>|--|
-|<i>θ<sub></sub></i>|<i>θ<sub>2</sub></i>|--|
-|<i>θ<sub></sub></i>|<i>θ<sub>2</sub></i>|--|
-|<i>λ<sub></sub></i>|<i>λ<sub>1</sub></i>|--|
-|<i>λ<sub></sub></i>|<i>λ<sub>2</sub></i>|--|
-|<i>ϕ<sub></sub></i>|<i>ϕ<sub>2</sub></i>|--|
-|<i>ϕ<sub></sub></i>|<i>ϕ<sub>2</sub></i>|--|
+|<i>β<sub></sub></i>|<i>β<sub>1</sub></i>|<i>β<sub>1</sub></i>|--|
+|<i>β<sub></sub></i>|<i>β<sub>2</sub></i>|<i>β<sub>2</sub></i>|--|
+|<i>θ<sub></sub></i>|<i>θ<sub>2</sub></i>|<i>θ<sub>2</sub></i>|--|
+|<i>θ<sub></sub></i>|<i>θ<sub>2</sub></i>|<i>θ<sub>2</sub></i>|--|
+|<i>λ<sub></sub></i>|<i>λ<sub>1</sub></i>|<i>λ<sub>1</sub></i>|--|
+|<i>λ<sub></sub></i>|<i>λ<sub>2</sub></i>|<i>λ<sub>2</sub></i>|--|
+|<i>ϕ<sub></sub></i>|<i>ϕ<sub>2</sub></i>|<i>ϕ<sub>2</sub></i>|--|
+|<i>ϕ<sub></sub></i>|<i>ϕ<sub>2</sub></i>|<i>ϕ<sub>2</sub></i>|--|
