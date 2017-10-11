@@ -12,3 +12,5 @@ Apple.<i>μ</i><sup>®</sup> — 1.49 KHz <i>μ</i>CPU <b>≡</b> Prosistor.
 - Faceix — 149
 - Suffix — ¶
 - Nameix — S<i>μ</i>149
+
+by — [Apple](https://www.apple.com/), Inc. &amp; [Sequømics](http://sequomics.com/), Inc.
