@@ -11,7 +11,7 @@
 |<i>β<sub></sub></i>|<i>β<sub>1</sub></i>|<i>β<sub>2</sub></i>|--|
 |<i>β<sub></sub></i>|4.0<i>mm</i>|4.0<i>mm</i>|--|
 |<i>θ<sub></sub></i>|<i>θ<sub>2</sub></i>|<i>θ<sub>2</sub></i>|--|
-|<i>θ<sub></sub></i>|<i>θ<sub>2</sub></i>|<i>θ<sub>2</sub></i>|--|
+|<i>θ<sub></sub></i>|1.5<i>mm</i>|1.5<i>mm</i>|--|
 |<i>λ<sub></sub></i>|<i>λ<sub>1</sub></i>|<i>λ<sub>1</sub></i>|--|
 |<i>λ<sub></sub></i>|<i>λ<sub>2</sub></i>|<i>λ<sub>2</sub></i>|--|
 |<i>ϕ<sub></sub></i>|<i>ϕ<sub>2</sub></i>|<i>ϕ<sub>2</sub></i>|--|
