@@ -18,6 +18,11 @@
 |<i>ϕ<sub></sub></i>|<i>ϕ<sub>2</sub></i>|<i>ϕ<sub>2</sub></i>|--|
 
 
+<b>QFNS</b> is a package design of nameix <b>prosistor</b> — <b>S<i>μ</i></b> with weight 1.49KHz i.e., a QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) to be a wotld first invention of MPRT (<i>μ</i><sup>®</sup>) architectured semiconductor.
+
+
+
+
 SMHS (Surface Mounted Heat Sink)
 
 Through Hole Diameter Design
