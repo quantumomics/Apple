@@ -17,12 +17,24 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 
 > <b>Note:</b> Faceix is a weight. Prefix + Faceix + Suffix = Nameix.
 
-<b>A.</b>
+<b>A.</b> S<i>μ</i>149
 
-<b>B.</b>
+- Operating Weight - 1.49 KHz
+- Operating Voltage - 1.09 to 1.41v
+- Operating Current - 0.41 mA
+- Operating Temperature - (-10° to 61 °C)
+- Package Type - QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) <b>≡</b> QFNS
+- Geometry - Square
 
-2.61 KHz
--08° to 84° C
+<b>B.</b> S<i>μ</i>261
+
+- Operating Weight - 2.61 KHz
+- Operating Weight - 2.61 KB
+- Operating Voltage - 1.09 to 1.41v
+- Operating Current - 0.41 mA
+- Operating Temperature - (-08° to 84 °C)
+- Package Type - QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) <b>≡</b> QFNS
+- Geometry - Square
 
 <i>by</i> — [Apple](https://www.apple.com/), Inc. &amp; [Sequømics](http://sequomics.com/), Inc.
 
