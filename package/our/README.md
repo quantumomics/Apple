@@ -32,12 +32,13 @@ If a = 2.0mm, then
 
 A = a<sup>2</sup> = 42 = 16
 
-<b>2. Area of the Circle:</b>
+<b>2. Area & Circumference of the Circle:</b>
 
 If r = 1.6mm; where π = 3.14159, then
 
-A = π•r<sup>2</sup> = π·1.62<sup>2</sup> ≈ 8.04248
+A = π•r<sup>2</sup> = π•1.62<sup>2</sup> ≈ 8.04248
 
+C = 2•π•r = 2•π•1.6 ≈ 10.0531
 
 SMHS (Surface Mounted Heat Sink)
 
