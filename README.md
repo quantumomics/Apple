@@ -29,7 +29,7 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 <b>B.</b> <b>S<i>μ</i>261</b>
 
 - Operating Weight - 2.61 KHz
-- Operating Weight - 2.61 KB
+- Operating Memory - 2.61 KB
 - Operating Voltage - 1.09 to 1.41v
 - Operating Current - 0.41 mA
 - Operating Temperature - (-08° to 84 °C)
