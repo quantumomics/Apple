@@ -24,9 +24,19 @@ Where, <i>θ</i><sub>1</sub> and <i>θ</i><sub>2</sub> is each valued 3.0mm for 
 
 A surface mounted heat sink, is an area to transfer the heat under steady-state conditions to be a great prosistor. The <b><i>r</i></b> of SMHS can be calculated by the formula and imposed on the QFN to design the semiconductor package QFNS. Thus, QFNS fabricated with the body size of 4.0mm<sup>2</sup>, have length of 4.0mm and width of 4.0 mm. The height of package is 2.0mm.
 
+<b>Mathematics of QFNS:</b>
 
+<b>1. Area of the Square:</b>
 
+If a = 2.0mm, then
 
+A = a<sup>2</sup> = 42 = 16
+
+<b>2. Area of the Circle:</b>
+
+If r = 1.6mm; where π = 3.14159, then
+
+A = π•r<sup>2</sup> = π·1.62<sup>2</sup> ≈ 8.04248
 
 
 SMHS (Surface Mounted Heat Sink)
