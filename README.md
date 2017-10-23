@@ -5,7 +5,7 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 - Operating Weight — 1.49 KHz
 - Operating Voltage — 1.09 to 1.41v
 - Operating Current — 0.41 mA
-- Operating Temperature — (-10° to 61 °C)
+- Operating Temperature — (-81°C to 64°C)
 - Package Type — QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) <b>≡</b> QFNS
 - Geometry — Square
 
@@ -22,7 +22,7 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 - Operating Weight — 1.49 KHz
 - Operating Voltage — 1.09 to 1.41v
 - Operating Current — 0.41 mA
-- Operating Temperature — (-10° to 61 °C)
+- Operating Temperature — (-81°C to 64°C)
 - Package Type — QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) <b>≡</b> QFNS
 - Geometry — Square
 
