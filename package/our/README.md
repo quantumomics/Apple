@@ -26,11 +26,13 @@ A surface mounted heat sink, is an area to transfer the heat under steady-state 
 
 <b>Mathematics of QFNS:</b>
 
-<b>1. Area of the Square:</b>
+<b>1. Area & Diagonal of the Square:</b>
 
-If a = 2.0mm, then
+If a = 4.0mm, then
 
-A = a<sup>2</sup> = 42 = 16
+A = a<sup>2</sup> = 4×4 = 16
+
+d = √2•a = √2•4 ≈ 5.65685
 
 <b>2. Area & Circumference of the Circle:</b>
 
