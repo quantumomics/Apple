@@ -42,12 +42,12 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 
 - Operating Weight — 4.9 GHz
 - Operating Memory — 4.9 GB
-- Operating Voltage — 2.6 to 0.0v
-- Operating Current — 1.0 mA
+- Operating Voltage — 2.8 to 4.6v
+- Operating Current — 1.4 mA
 - Operating Temperature — (-81°C to 64°C)
 - Package Type — QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) <b>≡</b> QFNS
 - Geometry — Square
-- Price — <b>₹261</b>
+- Price — <b>₹490</b>
 
 <i>by</i> — [Apple](https://www.apple.com/), Inc. &amp; [Sequømics](http://sequomics.com/), Inc.
 
