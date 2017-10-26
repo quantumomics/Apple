@@ -25,7 +25,7 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 - Operating Temperature — (-81°C to 64°C)
 - Package Type — QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) <b>≡</b> QFNS
 - Geometry — Square
-- Price — <b>₹149</b>
+- Price — <b>₹149/-</b>
 
 <b>B.</b> <b>S<i>μ</i>261</b>
 
@@ -36,7 +36,7 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 - Operating Temperature — (-81°C to 64°C)
 - Package Type — QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) <b>≡</b> QFNS
 - Geometry — Square
-- Price — <b>₹261</b>
+- Price — <b>₹261/-</b>
 
 <b>C.</b> <b>S<i>μ</i>49G</b>
 
@@ -47,7 +47,7 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 - Operating Temperature — (-81°C to 64°C)
 - Package Type — QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) <b>≡</b> QFNS
 - Geometry — Square
-- Price — <b>₹490</b>
+- Price — <b>₹4900/-</b>
 
 <i>by</i> — [Apple](https://www.apple.com/), Inc. &amp; [Sequømics](http://sequomics.com/), Inc.
 
