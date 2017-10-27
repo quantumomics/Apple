@@ -49,6 +49,17 @@ Apple.<i>μ</i><sup>®</sup> is a great invention into the semiconductor industr
 - Geometry — Square
 - Price — <b>₹4900/-</b>
 
+<b>D.</b> <b>S<i>μ</i>99G</b>
+
+- Operating Weight — 99.1 GHz
+- Operating Memory — 99.1 GB
+- Operating Voltage — 2.80 to 4.60v
+- Operating Current — 1.40 mA
+- Operating Temperature — (-81°C to 64°C)
+- Package Type — QFN (Quad Flat No Leads) with SMHS (Surface Mounted Heat Sink) <b>≡</b> QFNS
+- Geometry — Square
+- Price — <b>₹XXXX/-</b>
+
 <i>by</i> — [Apple](https://www.apple.com/), Inc. &amp; [Sequømics](http://sequomics.com/), Inc.
 
 This work is licensed under a Creative Commons Attribution 4.0 International License. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material.</i></br><b>Licence:</b> http://creativecommons.org/licenses/by/4.0/.
